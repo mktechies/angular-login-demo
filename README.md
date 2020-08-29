@@ -6,6 +6,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Install Dependencies
+
+> ng new angular-login-demo
+> npm install --save bootstrap
+> npm install --save @ng-bootstrap/ng-bootstrap
+> ng add @angular/localize
+
+## Generate Components and Services
+
+> ng g c login
+> ng g c nav-bar
+> ng g c home
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
